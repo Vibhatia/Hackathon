@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navv{
+background-color: rgb(117 106 213);
+width: 100%;
+text-align: center;
+height:60px;
+color: white;
+padding-top: 10px;
+font-size: 30px;
+margin: 0;
+}
